@@ -1,0 +1,9 @@
+.left_container {
+  max-width: 800px;
+  background-color: pink;
+  color: red;
+}
+
+body {
+  background-color: red;
+}

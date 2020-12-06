@@ -1,0 +1,24 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	max-width:100%;
+}
+a{
+  text-decoration: none;
+  color: black;
+  &:hover{
+  	  text-decoration: none;
+  color: black;
+  }
+}
+*{
+	vertical-align: baseline;
+}
+.flex{
+	list-style-type: none;
+	display: flex;
+}
+
+@import 'header';
+@import 'body';
+
